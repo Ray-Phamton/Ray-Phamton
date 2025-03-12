@@ -7,7 +7,7 @@
 
 - 👀 I’m looking to collaborate on **your doubts and problems**
 
-- 🤝 I’m looking for help with **seek new knowledge and innovation for my own development**
+- 🤝 I am looking for help to **acquire new knowledge and innovation for my own development**
 
 - 🗣 I speak **native Spanish and basic English**
 
