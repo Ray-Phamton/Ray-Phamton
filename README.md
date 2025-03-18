@@ -1,6 +1,11 @@
 <h1 align="center">Hi 👋, I'm Raymon</h1>
 <h3 align="center">A systems engineering student📝 and a growing developer↗️</h3>
 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Ray-Phamton&label=Profile%20views&color=6bdb0f&style=flat" alt="Ray_Phamton" /> </p>
+
+
+
+
 - 🔭 I’m currently working on **development of an project**
 
 - 🌱 I’m currently learning **Laravel and Introductory course to web design: HTML and CSS from Google**
